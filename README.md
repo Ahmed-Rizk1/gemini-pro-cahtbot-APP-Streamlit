@@ -9,7 +9,7 @@ This project builds a chatbot using Google's Gemini API for natural language und
 
 ## Demo
 
-![App Screenshot](screenshot01.png)  
+![App Screenshot](Screenshot01.png)  
 
 ---
 
